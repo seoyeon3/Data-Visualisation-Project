@@ -5,7 +5,7 @@ This repository showcases data visualization projects exploring patterns in huma
 
 
 ## Project 1: Evolution of Diet and Human Physiological Adaptation
-<a href="https://seoyeon3.github.io/Data-Visualisation-Project/index.html" target="_blank">
+<a href="https://seoyeon3.github.io/Data-Visualisation-Projects/index.html" target="_blank">
   <img src="https://img.shields.io/badge/Dashboard-Evolution%20Analysis-blue?style=for-the-badge"/> 
 </a>
 
@@ -21,7 +21,7 @@ Explores how dietary transitions relate to anatomical and functional adaptations
 
 ## Project 2: Social Contact Pattern Analysis
 
-<a href="https://seoyeon3.github.io/Data-Visualisation-Project/data_visualisation_project.html" target="_blank">
+<a href="https://seoyeon3.github.io/Data-Visualisation-Projects/data_visualisation_project.html" target="_blank">
   <img src="https://img.shields.io/badge/Dashboard-Social%20Contact-green?style=for-the-badge" />
 </a>
 
