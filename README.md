@@ -1,7 +1,7 @@
 # Data Visualization Portfolio
 
 ## Overview
-This repository showcases data visualization projects exploring patterns in human evolution and social contact behavior.
+This repository showcases data visualization projects.
 
 ## Project 1: Seller Acquisition Analytics Dashboard
 <a href="https://public.tableau.com/views/OlistSellerAcquisitionSegmentOpportunityDashboard/SellerAcquisitionSegmentOpportunityDashboard?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
